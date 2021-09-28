@@ -1,1 +1,1 @@
-Raw data files from PPMS, ie, the measurements from -3V to 3V, at varying temperatures
+Raw data files from PPMS, ie, the measurements from -5V to 5V, at varying temperatures done on September 28, 2021. File names indicate channel, temperature, and maximum voltage. Channel 1 refers to positive bias, Channel 2 refers to negative bias. 50 iterations in all cases. 
